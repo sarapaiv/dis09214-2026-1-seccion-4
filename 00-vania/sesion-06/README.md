@@ -20,3 +20,17 @@ Los **carácteres** son IMPORTANTES!!
 
 * Con los "#" creamos títulos y las jerarquías de estos según la cantidad que se pongan.
 * Si quiero escribir en distintos párrafos necesito dejar un estacio blanco entre líneas.
+
+### html
+Todo lo que empieza tiene que terminar
+
+* Tiene una cabeza: Configuraciones (<head>)
+* Tiene un cuerpo: La página web que veo
+
+* Titulos con <h1> </h1>
+* Parrafos <p> </p>
+* Links: <a href="tiktok.com">tiktok</a>
+
+> si agrego: target="_blank" despues del link, se abre en otra pestaña.
+  
+¿Como pensar y hacer que las cosas cuadren?
